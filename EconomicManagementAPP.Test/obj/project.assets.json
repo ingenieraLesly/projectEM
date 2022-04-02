@@ -7545,19 +7545,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sanch\\.nuget\\packages\\": {}
+    "C:\\Users\\lpaguilarr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repository\\Semillero3\\dotNet\\EconomicManagementAPP\\EconomicManagementAPP.Test\\EconomicManagementAPP.Test.csproj",
+      "projectUniqueName": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP.Test\\EconomicManagementAPP.Test.csproj",
       "projectName": "EconomicManagementAPP.Test",
-      "projectPath": "D:\\Repository\\Semillero3\\dotNet\\EconomicManagementAPP\\EconomicManagementAPP.Test\\EconomicManagementAPP.Test.csproj",
-      "packagesPath": "C:\\Users\\sanch\\.nuget\\packages\\",
-      "outputPath": "D:\\Repository\\Semillero3\\dotNet\\EconomicManagementAPP\\EconomicManagementAPP.Test\\obj\\",
+      "projectPath": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP.Test\\EconomicManagementAPP.Test.csproj",
+      "packagesPath": "C:\\Users\\lpaguilarr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sanch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lpaguilarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7571,8 +7571,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Repository\\Semillero3\\dotNet\\EconomicManagementAPP\\EconomicManagementAPP\\EconomicManagementAPP.csproj": {
-              "projectPath": "D:\\Repository\\Semillero3\\dotNet\\EconomicManagementAPP\\EconomicManagementAPP\\EconomicManagementAPP.csproj"
+            "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP\\EconomicManagementAPP.csproj": {
+              "projectPath": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP\\EconomicManagementAPP.csproj"
             }
           }
         }

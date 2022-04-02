@@ -1597,19 +1597,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sanch\\.nuget\\packages\\": {}
+    "C:\\Users\\lpaguilarr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repository\\Semillero3\\dotNet\\EconomicManagementAPP\\EconomicManagementAPP\\EconomicManagementAPP.csproj",
+      "projectUniqueName": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP\\EconomicManagementAPP.csproj",
       "projectName": "EconomicManagementAPP",
-      "projectPath": "D:\\Repository\\Semillero3\\dotNet\\EconomicManagementAPP\\EconomicManagementAPP\\EconomicManagementAPP.csproj",
-      "packagesPath": "C:\\Users\\sanch\\.nuget\\packages\\",
-      "outputPath": "D:\\Repository\\Semillero3\\dotNet\\EconomicManagementAPP\\EconomicManagementAPP\\obj\\",
+      "projectPath": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP\\EconomicManagementAPP.csproj",
+      "packagesPath": "C:\\Users\\lpaguilarr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sanch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lpaguilarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
