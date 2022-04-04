@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\managementPruebasIniciales_coments\\ProjectEM_2\\EconomicManagementAPP.Test\\EconomicManagementAPP.Test.csproj": {}
+    "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP.Test\\EconomicManagementAPP.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\managementPruebasIniciales_coments\\ProjectEM_2\\EconomicManagementAPP.Test\\EconomicManagementAPP.Test.csproj": {
+    "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP.Test\\EconomicManagementAPP.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\managementPruebasIniciales_coments\\ProjectEM_2\\EconomicManagementAPP.Test\\EconomicManagementAPP.Test.csproj",
+        "projectUniqueName": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP.Test\\EconomicManagementAPP.Test.csproj",
         "projectName": "EconomicManagementAPP.Test",
-        "projectPath": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\managementPruebasIniciales_coments\\ProjectEM_2\\EconomicManagementAPP.Test\\EconomicManagementAPP.Test.csproj",
+        "projectPath": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP.Test\\EconomicManagementAPP.Test.csproj",
         "packagesPath": "C:\\Users\\lpaguilarr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\managementPruebasIniciales_coments\\ProjectEM_2\\EconomicManagementAPP.Test\\obj\\",
+        "outputPath": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lpaguilarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\managementPruebasIniciales_coments\\ProjectEM_2\\EconomicManagementAPP\\EconomicManagementAPP.csproj": {
-                "projectPath": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\managementPruebasIniciales_coments\\ProjectEM_2\\EconomicManagementAPP\\EconomicManagementAPP.csproj"
+              "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP\\EconomicManagementAPP.csproj": {
+                "projectPath": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP\\EconomicManagementAPP.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\managementPruebasIniciales_coments\\ProjectEM_2\\EconomicManagementAPP\\EconomicManagementAPP.csproj": {
+    "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP\\EconomicManagementAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\managementPruebasIniciales_coments\\ProjectEM_2\\EconomicManagementAPP\\EconomicManagementAPP.csproj",
+        "projectUniqueName": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP\\EconomicManagementAPP.csproj",
         "projectName": "EconomicManagementAPP",
-        "projectPath": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\managementPruebasIniciales_coments\\ProjectEM_2\\EconomicManagementAPP\\EconomicManagementAPP.csproj",
+        "projectPath": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP\\EconomicManagementAPP.csproj",
         "packagesPath": "C:\\Users\\lpaguilarr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\managementPruebasIniciales_coments\\ProjectEM_2\\EconomicManagementAPP\\obj\\",
+        "outputPath": "C:\\Users\\lpaguilarr\\Documents\\FEDESOFT\\dotNet\\ProjectEM\\EconomicManagementAPP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lpaguilarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
