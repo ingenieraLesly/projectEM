@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EconomicManagementAPP",
+    "\\EconomicManagementAPP.Test",
+    "\\EconomicManagementAPP.Test\\UnitTest",
+    "\\EconomicManagementAPP\\Controllers",
+    "\\EconomicManagementAPP\\Services"
+  ],
+  "SelectedNode": "\\EconomicManagementAPP\\Controllers\\AccountTypesController.cs",
+  "PreviewInSolutionExplorer": false
+}
