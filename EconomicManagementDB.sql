@@ -31,7 +31,7 @@ CREATE TABLE [Accounts](
     CONSTRAINT [FK_AccountType] FOREIGN KEY (AccountTypeId) REFERENCES AccountTypes(Id)
 )
 GO
-CREATE TABLE Categories(
+CREATE TABLE [Categories](
 	[Id] [int] IDENTITY(1,1) PRIMARY KEY NOT NULL,
 	[Name] [nvarchar](50) NOT NULL,
 	[OperationTypeId] [int] NOT NULL,
